@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe1e82c-0b6c-40a5-8abd-400825d57fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SingletonDesignPattern/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingletonDesignPattern/SingletonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/AbstractMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Devide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractClass/Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,20 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SingletonThreadMain">
+  <component name="RunManager" selected="Application.AbstractMain">
+    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClass.AbstractMain" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FactoryDesignPattern.FactoryMain" />
       <module name="DesignPatterns" />
@@ -93,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.SingletonThreadMain" />
         <item itemvalue="Application.SingletonMain" />
         <item itemvalue="Application.FactoryMain" />
@@ -109,7 +125,7 @@
       <updated>1654018504449</updated>
       <workItem from="1654018506785" duration="2113000" />
       <workItem from="1654509175667" duration="29000" />
-      <workItem from="1654529373419" duration="1717000" />
+      <workItem from="1654529373419" duration="3637000" />
     </task>
     <servers />
   </component>
