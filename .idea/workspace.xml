@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe1e82c-0b6c-40a5-8abd-400825d57fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/AdapterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/AssignmentWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/GelPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/GelPenAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/Pen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/PilotPen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AdapterDesignPattern/PilotPenAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/AdvanceRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/BridgeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Tv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AdapterDesignPattern.AdapterMain">
+  <component name="RunManager" selected="Application.BridgeMain">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClass.AbstractMain" />
       <module name="DesignPatterns" />
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryDesignPattern.FactoryMain" />
+    <configuration name="BridgeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BridgeDesignPattern.BridgeMain" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryDesignPattern.*" />
+          <option name="PATTERN" value="BridgeDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BridgeMain" />
         <item itemvalue="Application.AdapterDesignPattern.AdapterMain" />
         <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.SingletonThreadMain" />
         <item itemvalue="Application.SingletonMain" />
-        <item itemvalue="Application.FactoryMain" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1654509175667" duration="29000" />
       <workItem from="1654529373419" duration="3637000" />
       <workItem from="1654618659928" duration="626000" />
-      <workItem from="1655031642641" duration="1137000" />
+      <workItem from="1655031642641" duration="3839000" />
     </task>
     <servers />
   </component>
