@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe1e82c-0b6c-40a5-8abd-400825d57fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/AdvanceRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/BasicRemote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/BridgeMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BridgeDesignPattern/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/ChainOfResponsibilityMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/ChainOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/DivOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/MultiOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/SubOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BridgeMain">
+  <component name="RunManager" selected="Application.ChainOfResponsibilityMain">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClass.AbstractMain" />
       <module name="DesignPatterns" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonDesignPattern.SingletonMain" />
+    <configuration name="ChainOfResponsibilityMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChainOfResponsibilityDesignPattern.ChainOfResponsibilityMain" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingletonDesignPattern.*" />
+          <option name="PATTERN" value="ChainOfResponsibilityDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChainOfResponsibilityMain" />
         <item itemvalue="Application.BridgeMain" />
         <item itemvalue="Application.AdapterDesignPattern.AdapterMain" />
         <item itemvalue="Application.AbstractMain" />
         <item itemvalue="Application.SingletonThreadMain" />
-        <item itemvalue="Application.SingletonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +145,12 @@
       <workItem from="1654509175667" duration="29000" />
       <workItem from="1654529373419" duration="3637000" />
       <workItem from="1654618659928" duration="626000" />
-      <workItem from="1655031642641" duration="3839000" />
+      <workItem from="1655031642641" duration="4722000" />
+      <workItem from="1655212006918" duration="598000" />
+      <workItem from="1655228231953" duration="601000" />
+      <workItem from="1655383846932" duration="19000" />
+      <workItem from="1655467314006" duration="655000" />
+      <workItem from="1657129326475" duration="982000" />
     </task>
     <servers />
   </component>
