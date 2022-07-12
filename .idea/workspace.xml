@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe1e82c-0b6c-40a5-8abd-400825d57fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/AddOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/ChainOfResponsibilityMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/ChainOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/DivOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/MultiOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibilityDesignPattern/SubOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/TemplateDesignMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Twitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +46,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ChainOfResponsibilityMain">
+  <component name="RunManager" selected="Application.TemplateDesignMain">
     <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClass.AbstractMain" />
       <module name="DesignPatterns" />
@@ -102,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonThreadMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonDesignPattern.SingletonThreadMain" />
+    <configuration name="TemplateDesignMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TemplateDesignPattern.TemplateDesignMain" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingletonDesignPattern.*" />
+          <option name="PATTERN" value="TemplateDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateDesignMain" />
         <item itemvalue="Application.ChainOfResponsibilityMain" />
         <item itemvalue="Application.BridgeMain" />
         <item itemvalue="Application.AdapterDesignPattern.AdapterMain" />
         <item itemvalue="Application.AbstractMain" />
-        <item itemvalue="Application.SingletonThreadMain" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +147,8 @@
       <workItem from="1655228231953" duration="601000" />
       <workItem from="1655383846932" duration="19000" />
       <workItem from="1655467314006" duration="655000" />
-      <workItem from="1657129326475" duration="982000" />
+      <workItem from="1657129326475" duration="1823000" />
+      <workItem from="1657644324489" duration="988000" />
     </task>
     <servers />
   </component>
