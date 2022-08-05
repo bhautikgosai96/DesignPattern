@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ãëñúÿÿÿÿ
+ƒ
+java:S1450"aRemove the "nextChainOperation" field and declare it as a local variable in the relevant methods.(®­±Ôúÿÿÿÿ8§ˆ±¥0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö‹Êèûÿÿÿÿ8´èš¥0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ê‰Ø¶8­ˆ±¥0
+X
+java:S1068"6Remove this unused "nextChainOperation" private field.(®­±Ôúÿÿÿÿ8±ˆ±¥0

@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efe1e82c-0b6c-40a5-8abd-400825d57fa2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/TemplateDesignMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemplateDesignPattern/Twitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/FailedStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/PendingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/StateDesignPatternMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/StatusFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/SuccessStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/models/CreateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StateDesignPattern/models/UpdateRequest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -46,20 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TemplateDesignMain">
-    <configuration name="AbstractMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClass.AbstractMain" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StateDesignPatternMain">
     <configuration name="AdapterDesignPattern.AdapterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdapterDesignPattern.AdapterMain" />
       <module name="DesignPatterns" />
@@ -99,6 +90,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StateDesignPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StateDesignPattern.StateDesignPatternMain" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StateDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TemplateDesignMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TemplateDesignPattern.TemplateDesignMain" />
       <module name="DesignPatterns" />
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StateDesignPatternMain" />
         <item itemvalue="Application.TemplateDesignMain" />
         <item itemvalue="Application.ChainOfResponsibilityMain" />
         <item itemvalue="Application.BridgeMain" />
         <item itemvalue="Application.AdapterDesignPattern.AdapterMain" />
-        <item itemvalue="Application.AbstractMain" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +152,10 @@
       <workItem from="1655383846932" duration="19000" />
       <workItem from="1655467314006" duration="655000" />
       <workItem from="1657129326475" duration="1823000" />
-      <workItem from="1657644324489" duration="988000" />
+      <workItem from="1657644324489" duration="1948000" />
+      <workItem from="1658164843183" duration="1119000" />
+      <workItem from="1659014219555" duration="1048000" />
+      <workItem from="1659680709252" duration="2478000" />
     </task>
     <servers />
   </component>

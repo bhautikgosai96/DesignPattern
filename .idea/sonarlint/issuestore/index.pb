@@ -15,3 +15,15 @@ Z
 *src/BridgeDesignPattern/AdvanceRemote.java,e/d/edee94f132ef992ccfb140c1f0d1576d87199362
 W
 'src/BridgeDesignPattern/BridgeMain.java,6/8/686f318d18bba4caaaff2a481f76434b4646f428
+b
+2src/ChainOfResponsibilityDesignPattern/Number.java,e/0/e0366da4d12266b0fade3a831324ee9bc2d27844
+h
+8src/ChainOfResponsibilityDesignPattern/SubOperation.java,f/6/f678577e2fad152892a01604fbbe546cc85d2969
+h
+8src/ChainOfResponsibilityDesignPattern/DivOperation.java,1/0/101e7f1df9c99b3385d4f4f509f6cd30f76a73f5
+[
++src/AdapterDesignPattern/GelPenAdapter.java,8/8/883d325327c8c131d105ee97d5d30a959cd83b0b
+T
+$src/AdapterDesignPattern/GelPen.java,b/b/bbc37a96d9a8f6d53340b9190533f9f50f44039c
+j
+:src/ChainOfResponsibilityDesignPattern/MultiOperation.java,3/d/3da3ebbb971c16e33ba003bc667d1780258de26c
