@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã‡–Ú
+`
+java:S2259 "EA "NullPointerException" could be thrown; "network" is nullable here.(ËÅßâûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¤‰Š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àº¿Ãøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø™€Àùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â™ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¯óÛşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×—ß‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÌÜ¿
