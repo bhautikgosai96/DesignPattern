@@ -19,3 +19,5 @@ Y
 .src/FactoryDesignPattern/FiveMinuteCandle.java,4/5/45cbb767f91e1074d20e488fe742e15a7650851e
 Y
 )src/FactoryDesignPattern/DailyCandle.java,1/d/1d0f2324c80fb039279c00288420353b396e7156
+d
+4src/MediatorDesignPattern/MediatorDesignPattern.java,b/2/b2ce3a0193d91409cecf65104c89d955a5e72201

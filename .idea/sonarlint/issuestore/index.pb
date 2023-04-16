@@ -75,3 +75,5 @@ Y
 )src/FactoryDesignPattern/DailyCandle.java,1/d/1d0f2324c80fb039279c00288420353b396e7156
 R
 "src/StateDesignPattern/Status.java,2/4/249f12590b96de2fdddc0775d7d2ef4196904890
+d
+4src/MediatorDesignPattern/MediatorDesignPattern.java,b/2/b2ce3a0193d91409cecf65104c89d955a5e72201
